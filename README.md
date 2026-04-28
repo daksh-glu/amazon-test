@@ -12,7 +12,7 @@ running in parallel.
 
 1. Install Python from python.org
 2. Open terminal and run:
-   pip install playwright  &&  
+   pip install playwright  &&
    playwright install
 3. Run the test:
    python test_amazon.py
